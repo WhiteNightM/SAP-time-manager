@@ -19,4 +19,5 @@ To show the final time, press ENTER while not inputing any recording
 
 
 Thank you for using my software uwu
+
 ![Alt ewfwefwefText](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
