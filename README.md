@@ -1,5 +1,10 @@
 # SAP-time-manager
-Add up worked hours and convert to SAP (decimal) time
+Python script to add up worked hours and convert to SAP (decimal) time
+
+## Preconditions
+This Python script requires the [colorama](https://github.com/tartley/colorama) library
+
+`pip install colorama`
 
 ## How it works
 A prompt will show up to enter one recording in the format of HH:MM
@@ -18,6 +23,8 @@ To show the final time, press ENTER while not inputing any recording
 
 
 
-Thank you for using my software uwu
+
+
+Thank you for using my software *uwu*
 
 ![Alt ewfwefwefText](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
